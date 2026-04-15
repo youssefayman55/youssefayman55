@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Ayman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;AI+Engineer;Machine+Learning+Enthusiast;AI+Instructor+@+Eyouth;Kaggle+Master&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;AI+Engineer;Machine+Learning+Specialist;AI+Instructor+@+Eyouth;Kaggle+Master&center=true&width=500&height=50">
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ## 🚀 About Me
 
 🎓 Graduate of Faculty of Computers and Artificial Intelligence  
-👨‍🏫 AI Instructor at **Eyouth** (MCIT Initiative)  
-📊 Passionate about **Data Science, Machine Learning & AI**  
-🏆 Kaggle Master with strong hands-on project experience  
+👨‍🏫 AI Instructor at **Eyouth (MCIT Initiative)**  
+📊 Specialized in **Data Science | Machine Learning | Deep Learning**  
+🏆 Kaggle Master with strong real-world projects  
 
-💡 I build intelligent systems, analyze complex data, and transform raw data into impactful insights.
+💡 I transform data into insights and build AI systems that solve real-world problems.
 
 ---
 
@@ -71,25 +71,15 @@
 
 ---
 
-## 🔥 Featured Projects (Pinned Style)
+## 🔥 Featured Projects
 
-🌟 **Phone Price Classification (CatBoost)**  
-→ High accuracy ML model for mobile price prediction  
+🌟 Phone Price Classification (CatBoost)  
+🌟 Heart Disease Prediction  
+🌟 Car Price Prediction  
+🌟 Deep Learning Models (DNN, EfficientNet)  
+🌟 Streamlit Data Dashboards  
 
-🌟 **Heart Disease Prediction**  
-→ Classification model with medical dataset  
-
-🌟 **Car Price Prediction**  
-→ Regression model with feature engineering  
-
-🌟 **Deep Learning Projects**  
-→ DNN + EfficientNet models  
-
-🌟 **Streamlit Dashboards**  
-→ Interactive Data Visualization Apps  
-
-📌 Explore all projects:  
-👉 https://github.com/youssefayman55
+👉 Full Portfolio: https://github.com/youssefayman55  
 
 ---
 
@@ -97,17 +87,48 @@
 
 🥇 Kaggle Master  
 👨‍🏫 AI Instructor @ Eyouth  
-📚 AI & Data Science Diploma  
-📊 Strong Portfolio of ML & DL Projects  
+📚 AI Diploma  
+📊 Strong ML & DL Portfolio  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=youssefayman55&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefayman55&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=youssefayman55&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=youssefayman55&theme=onestar&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📝 Latest Projects / Activity
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+💡 *Auto-updates with your GitHub activity using GitHub Actions*
+
+---
+
+## 🌍 Portfolio
+
+🚀 Coming Soon... (You can add your portfolio link here)  
 
 ---
 
@@ -119,10 +140,7 @@
 
 ---
 
-## 💬 Personal Branding Statement
+## 💬 Personal Branding
 
-🚀 *I don’t just analyze data — I build intelligent systems that solve real-world problems.*
-
-🔥 *Actively seeking opportunities in Data Science & AI to create impact.*
-
----
+🚀 *I build AI systems, not just models.*  
+🔥 *Turning data into real-world impact.*  
