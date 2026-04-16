@@ -134,13 +134,6 @@
 
 ---
 
-## 📝 Latest Projects / Activity
-
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
-💡 *Auto-updates with your GitHub activity using GitHub Actions*
-
 ---
 
 ## 📝 Latest GitHub Activity
