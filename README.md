@@ -39,45 +39,63 @@
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+---
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
-### 📊 Data Science
+---
+
+### 📊 Data Science & Analysis
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square)
-![Tkinter](https://img.shields.io/badge/-Tkinter-black?style=flat-square&logo=python)
 
-### 🤖 Machine Learning / DL
+---
+
+### 🤖 Machine Learning & Deep Learning
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat-square)
 
-### 🚀 Deployment
+---
+
+### 🚀 Deployment & Development
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-### ⚙️ Tools
+---
+
+### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-### ⚙️ Technical Skills
+---
+
+### 📈 Business & Productivity Tools
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
-![Word](https://img.shields.io/badge/-Word-black?style=flat-square&logo=microsoftword)
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
+![Word](https://img.shields.io/badge/-Word-black?style=flat-square&logo=microsoftword)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-black?style=flat-square&logo=microsoftpowerpoint)
-![Mathematics](https://img.shields.io/badge/-Mathematics-black?style=flat-square&logo=mathematica)
+
+---
+
+### 🧮 Math & Analytical Skills
 ![Statistics](https://img.shields.io/badge/-Statistics-black?style=flat-square&logo=chartdotjs)
+![Mathematics](https://img.shields.io/badge/-Mathematics-black?style=flat-square&logo=wolframmathematica)
 ![Algebra](https://img.shields.io/badge/-Algebra-black?style=flat-square&logo=bookstack)
 ![Regular Expressions](https://img.shields.io/badge/-Regex-black?style=flat-square&logo=codeforces)
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-black?style=flat-square&logo=icloud)
 
+---
+
+### 🌐 Other Skills
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-black?style=flat-square&logo=icloud)
 ---
 
 ## 🔥 Featured Projects
