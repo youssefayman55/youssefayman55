@@ -121,6 +121,21 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefayman55&layout=compact&theme=tokyonight"/>
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefayman55&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefayman55&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefayman55&theme=tokyonight&hide_border=true"/>
+
+</p>
 ---
 
 ## 🔥 Streak Stats
