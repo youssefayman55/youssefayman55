@@ -6,6 +6,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=AI%20Engineer%20%7C%20Data%20Scientist&fontSize=35&fontColor=ffffff" /></p>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141e30,100:243b55&height=180&text=Machine%20Learning%20Engineer&fontSize=30&fontColor=00f5ff" />
 ---
 
 ## 🚀 About Me
