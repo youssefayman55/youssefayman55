@@ -22,14 +22,13 @@
 <p align="center">
   
 <a href="https://www.linkedin.com/in/youssef-ayman11/">
-<img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=000000">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4">
   
 <a href="https://www.kaggle.com/youssefayman22">
-<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00F5D4">
+  
 <a href="https://github.com/youssefayman55">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4">
 </p>
 
 ---
