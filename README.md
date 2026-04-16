@@ -143,6 +143,24 @@
 
 ---
 
+## 📝 Latest GitHub Activity
+
+<p align="center">
+
+📌 Recent contributions, commits, and project updates automatically synced from GitHub
+
+</p>
+
+<!-- START_SECTION:activity -->
+<!-- GitHub Activity will appear here automatically -->
+<!-- END_SECTION:activity -->
+
+<p align="center">
+
+💡 _This section updates automatically using GitHub Actions_
+
+</p>
+
 ## 🌍 Portfolio
 
 🚀 Coming Soon... (You can add your portfolio link here)  
