@@ -22,7 +22,7 @@
 <p align="center">
   
 <a href="https://www.linkedin.com/in/youssef-ayman11/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white">
   
 <a href="https://www.kaggle.com/youssefayman22">
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
