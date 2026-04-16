@@ -49,6 +49,9 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
+![Tkinter](https://img.shields.io/badge/-Tkinter-black?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
 ### 🤖 Machine Learning / DL
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
