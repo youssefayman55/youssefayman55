@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Ayman</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=7CFFCB&center=true&vCenter=true&width=650&height=60&lines=Data+Scientist+%F0%9F%93%8A;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%94%A5;AI+Instructor+%40+Eyouth+%F0%9F%8E%93;Kaggle+Expert+%F0%9F%8F%86" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Youssef%20Ayman&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
