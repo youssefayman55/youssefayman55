@@ -134,7 +134,7 @@
 
 ---
 
----
+
 
 ## 📝 Latest GitHub Activity
 
@@ -153,7 +153,7 @@
 💡 _This section updates automatically using GitHub Actions_
 
 </p>
-
+---
 ## 🌍 Portfolio
 
 🚀 Coming Soon... (You can add your portfolio link here)  
