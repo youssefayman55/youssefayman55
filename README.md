@@ -29,8 +29,7 @@
 </a>
 
 <a href="https://github.com/youssefayman55">
-<img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail">
-</a>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
