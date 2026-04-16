@@ -71,6 +71,20 @@
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-black?style=flat-square&logo=microsoftpowerpoint)
 
+### ⚙️ Technical Skills
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
+![Word](https://img.shields.io/badge/-Word-black?style=flat-square&logo=microsoftword)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-black?style=flat-square&logo=microsoftpowerpoint)
+![Mathematics](https://img.shields.io/badge/-Mathematics-black?style=flat-square&logo=mathematica)
+![Statistics](https://img.shields.io/badge/-Statistics-black?style=flat-square&logo=chartdotjs)
+![Algebra](https://img.shields.io/badge/-Algebra-black?style=flat-square&logo=bookstack)
+![Regular Expressions](https://img.shields.io/badge/-Regex-black?style=flat-square&logo=codeforces)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-black?style=flat-square&logo=icloud)
+
 ---
 
 ## 🔥 Featured Projects
