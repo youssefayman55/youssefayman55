@@ -159,6 +159,8 @@
 ## 🌍 Portfolio
 
 🚀 Coming Soon... (You can add your portfolio link here)  
+<a href="https://app.snowflake.com/streamlit/me-central2.gcp/hf82225/#/apps/el5eypopw557vrewexym">
+</a>
 
 ---
 
