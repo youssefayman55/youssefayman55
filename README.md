@@ -20,14 +20,16 @@
 ## 🌐 Connect with me
 
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/youssef-ayman11/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  
 <a href="https://www.kaggle.com/youssefayman22">
 <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 
 <a href="https://github.com/youssefayman55">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
 </p>
 
 ---
