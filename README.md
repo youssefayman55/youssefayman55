@@ -66,15 +66,8 @@
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
-![Word](https://img.shields.io/badge/-Word-black?style=flat-square&logo=microsoftword)
-![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-black?style=flat-square&logo=microsoftpowerpoint)
 
 ### ⚙️ Technical Skills
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
 ![Word](https://img.shields.io/badge/-Word-black?style=flat-square&logo=microsoftword)
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
