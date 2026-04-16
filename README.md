@@ -39,8 +39,6 @@
 
 ## 🧠 Tech Stack
 
----
-
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
