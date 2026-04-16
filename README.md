@@ -82,14 +82,27 @@
 
 ## 🔥 Featured Projects
 
-🌟 Phone Price Classification (CatBoost)  
-🌟 Heart Disease Prediction  
-🌟 Car Price Prediction  
-🌟 Deep Learning Models (DNN, EfficientNet)  
-🌟 Streamlit Data Dashboards  
+🚀 **End-to-End Machine Learning Projects**
+- Phone Price Classification (CatBoost, Feature Engineering, Hyperparameter Tuning)
+- Heart Disease Prediction (Classification Models & Evaluation Metrics)
+- Car Price Prediction (Regression Models with CatBoost & Feature Importance)
 
-👉 Full Portfolio: https://github.com/youssefayman55  
+🧠 **Deep Learning & AI Projects**
+- Deep Learning Models (DNN for Binary Classification)
+- Image Classification using EfficientNetB0 (Transfer Learning)
+- CNN-based Computer Vision Projects (Image Processing & Augmentation)
 
+📊 **Data Science & Analytics**
+- Interactive Streamlit Dashboards for Business Insights
+- Exploratory Data Analysis (EDA) Projects on Real-world Datasets (Kaggle & Employees Data)
+- Data Cleaning & Feature Engineering Pipelines
+
+🌐 **Python Automation & Tools**
+- Web Scraping Projects using BeautifulSoup & Requests
+- Automated Data Collection Pipelines
+- Mini Python Utilities & Automation Scripts
+
+👉 **Full Portfolio:** https://github.com/youssefayman55
 ---
 
 ## 🏆 Achievements
