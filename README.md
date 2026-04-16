@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=blue">
   
 <a href="https://www.kaggle.com/youssefayman22">
-<img src="https://img.shields.io/badge/Kaggle-8B0000?style=for-the-badge&logo=kaggle&logoColor=blue">
+<img src="https://img.shields.io/badge/Kaggle-8B0000?style=for-the-badge&logo=kaggle&logoColor=1DA1F2">
   
 <a href="https://github.com/youssefayman55">
 <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=blue">
