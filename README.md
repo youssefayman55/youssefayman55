@@ -159,10 +159,9 @@
 ## 🌍 Portfolio
 
 🚀 Coming Soon... (You can add your portfolio link here)  
-<a href="https://app.snowflake.com/streamlit/me-central2.gcp/hf82225/#/apps/el5eypopw557vrewexym" target="_blank">
+<a href="https://app.snowflake.com/streamlit/me-central2.gcp/hf82225/#/apps/el5eypopw557vrewexym">
   <img src="https://img.shields.io/badge/Streamlit%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
-
 ---
 
 ## 👀 Visitors
