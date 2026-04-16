@@ -49,9 +49,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
 ### 🤖 Machine Learning / DL
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
@@ -68,7 +66,10 @@
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
+![Word](https://img.shields.io/badge/-Word-black?style=flat-square&logo=microsoftword)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-black?style=flat-square&logo=microsoftpowerpoint)
 
 ---
 
